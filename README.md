@@ -1,2 +1,2 @@
 # Sample-Repo
-Learning git &amp; github from Delta Batch
+Learning git &amp; github from Delta Batch.
